@@ -63,5 +63,5 @@ test
 
 # Built Visual Studio Code Extensions
 *.vsix
-net_practice/*/*
+net_practice/*
 Notes/*
